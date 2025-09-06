@@ -1,4 +1,4 @@
-# Hands-On Introduction to Quantum Computing with Qiskit
+# Hands-on Introduction to Quantum Computing with Qiskit
 **Taller práctico: ejercicios básicos en la simulación y ejecución de algoritmos cuánticos en hardware real (Qiskit)**
 
 Materials for the hands-on Qiskit session for the ["Quantum Computing: from fundamentals to applications 2025"](https://www.uik.eus/en/activity/quantum-computing-fundamentals-applications) summer school.
