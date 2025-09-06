@@ -8,4 +8,4 @@ Follow the instructions in the first two sections of [HelloWorld_QiskitPatterns.
 **Useful links**
 - [Qiskit advocate program](https://www.ibm.com/quantum/community#advocates)
 - [IBM Quantum Platform](https://quantum.cloud.ibm.com/)
-- [IBM Quantum Learning platform](https://quantum.cloud.ibm.com/learning/en)
+- [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en)
